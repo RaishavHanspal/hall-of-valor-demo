@@ -1,0 +1,83 @@
+{
+  "bundles": [
+    {
+      "name": "boot",
+      "assets": [
+        {
+          "alias": "atlas:ui",
+          "src": "assets/atlases/ui.json"
+        },
+        {
+          "alias": "atlas:uikit",
+          "src": "assets/atlases/uikit.json"
+        },
+        {
+          "alias": "bg_loading",
+          "src": "assets/bg/bg_loading.webp"
+        },
+        {
+          "alias": "bg_loading_portrait",
+          "src": "assets/bg/bg_loading_portrait.webp"
+        },
+        {
+          "alias": "studio_lockup",
+          "src": "assets/brand/studio_lockup.webp"
+        },
+        {
+          "alias": "studio_lockup_row",
+          "src": "assets/brand/studio_lockup_row.webp"
+        },
+        {
+          "alias": "game_title",
+          "src": "assets/brand/game_title.webp"
+        }
+      ]
+    },
+    {
+      "name": "main",
+      "assets": [
+        {
+          "alias": "atlas:symbols-0",
+          "src": "assets/atlases/symbols-0.json"
+        },
+        {
+          "alias": "atlas:symbols-1",
+          "src": "assets/atlases/symbols-1.json"
+        },
+        {
+          "alias": "atlas:characters",
+          "src": "assets/atlases/characters.json"
+        },
+        {
+          "alias": "reel_frame",
+          "src": "assets/bg/reel_frame.webp"
+        },
+        {
+          "alias": "reel_bg",
+          "src": "assets/bg/reel_bg.webp"
+        },
+        {
+          "alias": "bg_main",
+          "src": "assets/bg/bg_main.webp"
+        },
+        {
+          "alias": "bg_main_portrait",
+          "src": "assets/bg/bg_main_portrait.webp"
+        }
+      ]
+    },
+    {
+      "name": "feature",
+      "assets": [
+        {
+          "alias": "bg_bonus",
+          "src": "assets/bg/bg_bonus.webp"
+        },
+        {
+          "alias": "bg_bonus_portrait",
+          "src": "assets/bg/bg_bonus_portrait.webp"
+        }
+      ]
+    }
+  ]
+}
