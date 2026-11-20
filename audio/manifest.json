@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "sprites": [
+    {
+      "src": ["sfx.webm", "sfx.mp3"],
+      "map": {
+        "ui_click": [0, 480],
+        "menu_open": [680, 680],
+        "menu_close": [1560, 600],
+        "ways_update": [2360, 480],
+        "symbol_land": [3040, 480],
+        "coin_tick": [3720, 480],
+        "reel_stop": [4400, 480],
+        "cascade_drop": [5080, 600],
+        "spin_start": [5880, 800],
+        "way_win": [6880, 1000],
+        "scatter_land": [8080, 1480],
+        "anticipation_loop": [9760, 4000, true],
+        "win_countup_loop": [13960, 3000, true],
+        "lightning_burst": [17160, 1480],
+        "multiplier_up": [18840, 1000],
+        "multiplier_apply": [20040, 800],
+        "coin_burst": [21040, 1000],
+        "fs_trigger": [22240, 3000],
+        "fs_retrigger": [25440, 2000],
+        "fs_outro": [27640, 3000],
+        "countup_end": [30840, 2480],
+        "big_win": [33520, 3000],
+        "mega_win": [36720, 4000],
+        "epic_win": [40920, 5000],
+        "max_win_reached": [46120, 5000],
+        "countup_rise_loop": [13960, 3000, true]
+      }
+    }
+  ],
+  "music": {
+    "music_base": {
+      "src": ["music_base.webm", "music_base.mp3"]
+    },
+    "music_fs": {
+      "src": ["music_fs.webm", "music_fs.mp3"]
+    }
+  }
+}
